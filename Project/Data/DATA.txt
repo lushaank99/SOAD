@@ -1,0 +1,373 @@
+item = Item(eq_name="AmazonBasics Medicine Ball",
+                image_url="https://m.media-amazon.com/images/I/81cpFacrwoL._AC_UL320_ML3_.jpg", type="medicineball",
+                cost=1249)
+    item.save()
+    item = Item(eq_name="DIABLO Premium Quality Rubber Medicine Balls",
+                image_url="https://m.media-amazon.com/images/I/91v9XCAdJ5L._AC_UL320_ML3_.jpg", type="medicineball",
+                cost=395)
+    item.save()
+    item = Item(eq_name="Xpeed Leather Medicine Ball Fitness Workout Medicine Ball",
+                image_url="https://m.media-amazon.com/images/I/51sELHbKjeL._AC_UL320_ML3_.jpg", type="medicineball",
+                cost=973)
+    item.save()
+    item = Item(eq_name="Nivia Medicine Ball",
+                image_url="https://m.media-amazon.com/images/I/91N+hLw-8fL._AC_UL320_ML3_.jpg", type="medicineball",
+                cost=1124)
+    item.save()
+    item = Item(eq_name="USI Rubber Medicine Ball HIGH Bounce",
+                image_url="https://m.media-amazon.com/images/I/71EmdPfkIRL._AC_UL320_ML3_.jpg", type="medicineball",
+                cost=599)
+    item.save()
+    item = Item(eq_name="Aurion Medicine Ball Gym Abs Exercises| Leather Weighted Med Ball",
+                image_url="https://m.media-amazon.com/images/I/71hsyFHmsfL._AC_UL320_ML3_.jpg", type="medicineball",
+                cost=995)
+    item.save()
+    item = Item(eq_name="Diablo Sturdy Medicine Ball",
+                image_url="https://m.media-amazon.com/images/I/811Kg50SlnL._AC_UL320_ML3_.jpg", type="medicineball",
+                cost=652)
+    item.save()
+    item = Item(eq_name="CSI Leather Medicine Ball 5kg",
+                image_url="https://m.media-amazon.com/images/I/71FOO0SForL._AC_UL320_ML3_.jpg", type="medicineball",
+                cost=1199)
+    item.save()
+    item = Item(eq_name="Aurion Medicine Ball Exercise Slam No Bounce Medicine Ball",
+                image_url="https://m.media-amazon.com/images/I/71HHSIOBd-L._AC_UL320_ML3_.jpg", type="medicineball",
+                cost=1448)
+    item.save()
+    item = Item(eq_name="SAS SPORTS Rubber Medicine Ball (5kg)",
+                image_url="https://m.media-amazon.com/images/I/81c8UcVC+xL._AC_UL320_ML3_.jpg", type="medicineball",
+                cost=1628)
+    item.save()
+    item = Item(eq_name="SportsYuva Rubber Medicine Ball/Gym Exercise Ball",
+                image_url="https://m.media-amazon.com/images/I/51ILaJb2aWL._AC_UL320_ML3_.jpg", type="medicineball",
+                cost=650)
+    item.save()
+    item = Item(eq_name="Ulitmate Gym Machine Wire Ball",
+                image_url="https://m.media-amazon.com/images/I/41EPnRVdrJL._AC_UL320_ML3_.jpg", type="medicineball",
+                cost=399)
+    item.save()
+    item = Item(eq_name="VIRTUOUS Unisex Rubber Medicine Ball 5 Kg and Gym Ball",
+                image_url="https://m.media-amazon.com/images/I/71TkbjF+UXL._AC_UL320_ML3_.jpg", type="medicineball",
+                cost=859)
+    item.save()
+    item = Item(
+        eq_name="XPEED Leather Medicine Ball",
+        image_url="https://m.media-amazon.com/images/I/51FM1FCyHaL._AC_UL320_ML3_.jpg", type="medicineball",
+        cost=499)
+    item.save()
+    item = Item(eq_name="Medicine Gym Ball",
+                image_url="https://m.media-amazon.com/images/I/6116bzL7iVL._AC_UL320_ML3_.jpg", type="medicineball",
+                cost=400)
+    item.save()
+    item = Item(eq_name="Cockatoo GB-85 Anti-Burst Gym Ball",
+                image_url="https://m.media-amazon.com/images/I/4102infV-wL._AC_UL320_ML3_.jpg", type="medicineball",
+                cost=1800)
+    item.save()
+    item = Item(eq_name="SAS SPORTS Rubber Medicine Ball (3kg)",
+                image_url="https://m.media-amazon.com/images/I/81Grt0dz8sL._AC_UL320_ML3_.jpg", type="medicineball",
+                cost=949)
+    item.save()
+    item = Item(eq_name="Roxan Rubber Medicine Ball 1 kg | Without Handle",
+                image_url="https://m.media-amazon.com/images/I/61KHSNLO9JL._AC_UL320_ML3_.jpg", type="medicineball",
+                cost=647)
+    item.save()
+    item = Item(eq_name="3kg Rubber Medicine Ball",
+                image_url="https://m.media-amazon.com/images/I/81d5nwTjYXL._AC_UL320_ML3_.jpg", type="medicineball",
+                cost=1099)
+    item.save()
+    item = Item(eq_name="AURION-Medicine-Ball Rubber No Bounce Fitness Medicine Ball, 5 Kg",
+                image_url="https://m.media-amazon.com/images/I/81iRGMx7XnL._AC_UL320_ML3_.jpg", type="medicineball",
+                cost=999)
+    item.save()
+
+
+item = Item(eq_name="Kakss Cast Iron Kettlebell",
+                image_url="https://m.media-amazon.com/images/I/81ieXVRRloL._AC_UL320_ML3_.jpg", type="kettlebell",
+                cost=1448)
+    item.save()
+    item = Item(eq_name="AmazonBasics Enamel Coated Cast Iron Kettlebell",
+                image_url="https://m.media-amazon.com/images/I/61+8kdx6qHL._AC_UL320_ML3_.jpg", type="kettlebell",
+                cost=499)
+    item.save()
+    item = Item(eq_name="AmazonBasics Cast Iron Kettlebell",
+                image_url="https://m.media-amazon.com/images/I/71YbBHZs8UL._AC_UL320_ML3_.jpg", type="kettlebell",
+                cost=399)
+    item.save()
+    item = Item(eq_name="Protoner 6KG Kettlebell",
+                image_url="https://m.media-amazon.com/images/I/71yXJHFpOuL._AC_UL320_ML3_.jpg", type="kettlebell",
+                cost=474)
+    item.save()
+    item = Item(eq_name="Bodygrip Kettlebell for Home Gym",
+                image_url="https://m.media-amazon.com/images/I/71+J65ODo9L._AC_UL320_ML3_.jpg", type="kettlebell",
+                cost=850)
+    item.save()
+    item = Item(eq_name="Kobo Kettle Bell for Fitness and Training",
+                image_url="https://m.media-amazon.com/images/I/31UCd21KkyL._AC_UL320_ML3_.jpg", type="kettlebell",
+                cost=809)
+    item.save()
+    item = Item(eq_name="Bodygrip BGRIP5445 Kettlebell",
+                image_url="https://m.media-amazon.com/images/I/41XDznkWTeL._AC_UL320_ML3_.jpg", type="kettlebell",
+                cost=551)
+    item.save()
+    item = Item(eq_name="AmazonBasics Enamel Kettlebell",
+                image_url="https://m.media-amazon.com/images/I/615iK0m4z2L._AC_UL320_ML3_.jpg", type="kettlebell",
+                cost=4199)
+    item.save()
+    item = Item(eq_name="AmazonBasics Enamel Coated Cast Iron Kettlebell",
+                image_url="https://m.media-amazon.com/images/I/41n-hqPGWEL._AC_UL320_ML3_.jpg", type="kettlebell",
+                cost=899)
+    item.save()
+    item = Item(eq_name="Kore Kettlebells",
+                image_url="https://m.media-amazon.com/images/I/81HaXws47pL._AC_UL320_ML3_.jpg", type="kettlebell",
+                cost=449)
+    item.save()
+    item = Item(eq_name="Cockatoo Vinyl PVC Kettlebell",
+                image_url="https://m.media-amazon.com/images/I/71GiFcDJw1L._AC_UL320_ML3_.jpg", type="kettlebell",
+                cost=6214)
+    item.save()
+    item = Item(eq_name="Monex 20 Kg Kettlebell Home Gym",
+                image_url="https://m.media-amazon.com/images/I/410zdKxgu0L._AC_UL320_ML3_.jpg", type="kettlebell",
+                cost=6799)
+    item.save()
+    item = Item(eq_name="Kobo Kettlebell Cast Iron Rubber Coated with Chrome Handle",
+                image_url="https://m.media-amazon.com/images/I/61SVOSZy0NL._AC_UL320_ML3_.jpg", type="kettlebell",
+                cost=473)
+    item.save()
+    item = Item(
+        eq_name="Sai Pro 16 kg Cast Iron Kettlebell for Gym Exercise",
+        image_url="https://m.media-amazon.com/images/I/412famN1crL._AC_UL320_ML3_.jpg", type="kettlebell",
+        cost=7999)
+    item.save()
+    item = Item(eq_name="Kakss Half Coating Neoprene Kettlebell",
+                image_url="https://m.media-amazon.com/images/I/71uGnrPTJKL._AC_UL320_ML3_.jpg", type="kettlebell",
+                cost=903)
+    item.save()
+    item = Item(eq_name="Aurion Kettle Bells Home Gym",
+                image_url="https://m.media-amazon.com/images/I/71NDpYH4tkL._AC_UL320_ML3_.jpg", type="kettlebell",
+                cost=499)
+    item.save()
+    item = Item(eq_name="AmazonBasics Vinyl Kettlebell",
+                image_url="https://m.media-amazon.com/images/I/81b0-QrgeLL._AC_UL320_ML3_.jpg", type="kettlebell",
+                cost=748)
+    item.save()
+    item = Item(eq_name="Sixer 4 kg Home Gym Set Iron Kettle Bell",
+                image_url="https://m.media-amazon.com/images/I/21iFt54ZQRL._AC_UL320_ML3_.jpg", type="kettlebell",
+                cost=599)
+    item.save()
+
+
+item = Item(eq_name="Fitsya Health & Fitness Massage Gym Physio Trigger Point Yoga Foam Roller 13 Inches",
+                image_url="https://m.media-amazon.com/images/I/61CQtusgOeL._AC_UL320_ML3_.jpg", type="foamroll",
+                cost=799)
+    item.save()
+    item = Item(eq_name="Fitsya Health & Fitness Massage Gym Physio Trigger Point Yoga Foam Roller 18 Inches",
+                image_url="https://m.media-amazon.com/images/I/61HVwWKL+3L._AC_UL320_ML3_.jpg", type="foamroll",
+                cost=1199)
+    item.save()
+    item = Item(eq_name="Strauss Grid Foam Roller",
+                image_url="https://m.media-amazon.com/images/I/71o7lDiNlpL._AC_UL320_ML3_.jpg", type="foamroll",
+                cost=949)
+    item.save()
+    item = Item(eq_name="tenstar Fitness Massage Foam Roller for Therapy",
+                image_url="https://m.media-amazon.com/images/I/41zVijOLaOL._AC_UL320_ML3_.jpg", type="foamroll",
+                cost=1040)
+    item.save()
+    item = Item(eq_name="Strauss Yoga Foam Roller",
+                image_url="https://m.media-amazon.com/images/I/71fSSd0CFgL._AC_UL320_ML3_.jpg", type="foamroll",
+                cost=652)
+    item.save()
+    item = Item(eq_name="Foam Roller for Muscles by House of Quirk Core Stabilization",
+                image_url="https://m.media-amazon.com/images/I/81eH5I+qi7L._AC_UL320_ML3_.jpg", type="foamroll",
+                cost=575)
+    item.save()
+    item = Item(eq_name="Auxter Fitness Massage Foam Roller Therapy Yoga Foam Roller With Bag",
+                image_url="https://m.media-amazon.com/images/I/715mccWjmHL._AC_UL320_ML3_.jpg", type="foamroll",
+                cost=949)
+    item.save()
+    item = Item(eq_name="RONTENO Form Yoga Roller Gym Exercise Fitness Point EVA Foam Roller",
+                image_url="https://m.media-amazon.com/images/I/61JwpnWPlRL._AC_UL320_ML3_.jpg", type="foamroll",
+                cost=649)
+    item.save()
+    item = Item(eq_name="KOBO Massage Roller/Yoga Roller/Body Balance Trainer",
+                image_url="https://m.media-amazon.com/images/I/71kkOxg8ViL._AC_UL320_ML3_.jpg", type="foamroll",
+                cost=749)
+    item.save()
+    item = Item(eq_name="Roller X, EVA Foam Roller, 12x6",
+                image_url="https://m.media-amazon.com/images/I/41ZE4xTDT7L._AC_UL320_ML3_.jpg", type="foamroll",
+                cost=999)
+    item.save()
+    item = Item(eq_name="Strauss Deep Tissue Massage Foam Roller",
+                image_url="https://m.media-amazon.com/images/I/71i0UODUaQL._AC_UL320_ML3_.jpg", type="foamroll",
+                cost=999)
+    item.save()
+    item = Item(eq_name="Everlast DWEQ141016 Foam Roller",
+                image_url="https://m.media-amazon.com/images/I/61rdxEh9rvL._AC_UL320_ML3_.jpg", type="foamroll",
+                cost=1050)
+    item.save()
+    item = Item(eq_name="IRIS TriggerPoint Grid Foam Roller",
+                image_url="https://m.media-amazon.com/images/I/61G-sr1CL0L._AC_UL320_ML3_.jpg", type="foamroll",
+                cost=1299)
+    item.save()
+    item = Item(eq_name="Bodylastics Complete Deep Tissue Body Massaging Kit Includes Foam Roller, Stick and Balls with Bag",
+                image_url="https://m.media-amazon.com/images/I/71PM-PvoPeL._AC_UL320_ML3_.jpg", type="foamroll",
+                cost=1799)
+    item.save()
+    item = Item(eq_name="KD Fitness Massage Foam Roller Therapy Yoga Gym Physio Injury Foam Roller",
+                image_url="https://m.media-amazon.com/images/I/71KDOwSL8cL._AC_UL320_ML3_.jpg", type="foamroll",
+                cost=399)
+    item.save()
+    item = Item(eq_name="E RELAX Fitness Massage Foam Roller for Therapy Yoga/Gym/Physio Injury/Exercise",
+                image_url="https://m.media-amazon.com/images/I/313m3+B32TL._AC_UL320_ML3_.jpg", type="foamroll",
+                cost=575)
+    item.save()
+
+item = Item(eq_name="FITSYA Imported Rubber Coated Hex Dumbbells Weight",
+                image_url="https://m.media-amazon.com/images/I/71MTglgLjlL._AC_UL320_ML3_.jpg", type="dumbbell", cost=1499)
+    item.save()
+    item = Item(eq_name="KAKSS Neoprene Coated Dumbbells for Gym Excercise 4 kg",
+                image_url="https://m.media-amazon.com/images/I/71xBRnS2UjL._AC_UL320_ML3_.jpg", type="dumbbell", cost=799)
+    item.save()
+    item = Item(eq_name="FITSYA Pro Style Professional Round Rubber Dumbbells Set Combo",
+                image_url="https://m.media-amazon.com/images/I/61CPN-lPDpL._AC_UL320_ML3_.jpg", type="dumbbell", cost=2999)
+    item.save()
+    item = Item(eq_name="AmazonBasics Neoprene Dumbbells, Set of 2",
+                image_url="https://m.media-amazon.com/images/I/81VFY+5ZWJL._AC_UL320_ML3_.jpg", type="dumbbell", cost=599)
+    item.save()
+    item = Item(eq_name="AmazonBasics Vinyl Dumbbells",
+                image_url="https://m.media-amazon.com/images/I/71dbxumKdWL._AC_UL320_ML3_.jpg", type="dumbbell",
+                cost=4000)
+    item.save()
+    item = Item(eq_name="KORE DM-HEXA-COMBO16 Dumbbells Kits",
+                image_url="https://m.media-amazon.com/images/I/81cmTguP0OL._AC_UL320_ML3_.jpg", type="dumbbell",
+                cost=950)
+    item.save()
+    item = Item(eq_name="Cockatoo Rubber Coated Professional Hex Dumbbell Set",
+                image_url="https://m.media-amazon.com/images/I/91yAmQlU5wL._AC_UL320_ML3_.jpg", type="dumbbell",
+                cost=2500)
+    item.save()
+    item = Item(eq_name="RUBX Rubber Coated Professional Exercise Hex Dumbbells",
+                image_url="https://m.media-amazon.com/images/I/71VYyBfLehL._AC_UL320_ML3_.jpg", type="dumbbell",
+                cost=799)
+    item.save()
+    item = Item(eq_name="Aurion Set of 2 Chrome Dumbbell with Soft Padded Cushion Handles, Pair of 2 Heavy Dumbbells",
+                image_url="https://m.media-amazon.com/images/I/41PYlk+iMLL._AC_UL320_ML3_.jpg", type="dumbbell",
+                cost=899)
+    item.save()
+    item = Item(eq_name="Bodygrip Dumbbell Set Combo, 12Kg",
+                image_url="https://m.media-amazon.com/images/I/61V++TQ9toL._AC_UL320_ML3_.jpg", type="dumbbell",
+                cost=3299)
+    item.save()
+    item = Item(eq_name="Aurion Dumbbells in Pairs",
+                image_url="https://m.media-amazon.com/images/I/71OqTILJm+L._AC_UL320_ML3_.jpg", type="dumbbell",
+                cost=2789)
+    item.save()
+    item = Item(eq_name="Cockatoo Rubber Coated Professional Round dumbbells",
+                image_url="https://m.media-amazon.com/images/I/71RCvQOAQ+L._AC_UL320_ML3_.jpg", type="dumbbell",
+                cost=699)
+    item.save()
+    item = Item(eq_name="Sports Hour Neoprene Dumbbells 4Kg (2Kg Each)",
+                image_url="https://m.media-amazon.com/images/I/51MZXF028SL._AC_UL320_ML3_.jpg", type="dumbbell",
+                cost=749)
+    item.save()
+    item = Item(eq_name="Aurion Rubber Hexa Hex Dumbbells (Pair) Weight Set Solid Dumbbell with Wooden Hand Grip",
+                image_url="https://m.media-amazon.com/images/I/71iTdTQEKYL._AC_UL320_ML3_.jpg", type="dumbbell",
+                cost=792)
+    item.save()
+    item = Item(eq_name="Protoner 20kg Adjustable Dumbbell Set",
+                image_url="https://m.media-amazon.com/images/I/71BaJ917cyL._AC_UL320_ML3_.jpg", type="dumbbell",
+                cost=699)
+    item.save()
+    item = Item(eq_name="Aurion Fitness PVC Dumbell Set Combo Home Gym",
+                image_url="https://m.media-amazon.com/images/I/71XH-UwRklL._AC_UL320_ML3_.jpg", type="dumbbell",
+                cost=1900)
+    item.save()
+    item = Item(eq_name="Protoner PVC Adjustable Dumbbell Set",
+                image_url="https://m.media-amazon.com/images/I/618vcNjSPKL._AC_UL320_ML3_.jpg", type="dumbbell",
+                cost=3199)
+    item.save()
+    item = Item(eq_name="Skera Steel Chrome Fixed Dumbbell (Pair",
+                image_url="https://m.media-amazon.com/images/I/7130qOyh6BL._AC_UL320_ML3_.jpg", type="dumbbell",
+                cost=1609)
+    item.save()
+    item = Item(eq_name="Bodygrip Dumbbell Set Combo, 10Kg",
+                image_url="https://m.media-amazon.com/images/I/61bqpYsfK4L._AC_UL320_ML3_.jpg", type="dumbbell",
+                cost=1699)
+    item.save()
+
+item = Item(eq_name="Bodyfit 8-in-1 Home Gym Package Box Pack Bench, 50Kg Weight Set",
+                image_url="https://m.media-amazon.com/images/I/815trQ0iVNL._AC_UL320_ML3_.jpg", type="all",
+                cost=4599)
+    item.save()
+    item = Item(eq_name="Bodyfit 30Kg Weight Plates Home Gym Fitness Package 4 Rods,Gym Bag,Gym Accessories.",
+                image_url="https://m.media-amazon.com/images/I/512vWqvxLDL._AC_UL320_ML3_.jpg", type="all",
+                cost=1385)
+    item.save()
+    item = Item(eq_name="BodyFit Weight Plates 20 In 1 Bench Home Gym Fitness Package Exercise Sets",
+                image_url="https://m.media-amazon.com/images/I/71Eo77d1wpL._AC_UL320_ML3_.jpg", type="all",
+                cost=8675)
+    item.save()
+    item = Item(eq_name="Protoner 30kg Rubber Home Gym Package with 4 Rods",
+                image_url="https://m.media-amazon.com/images/I/81DCAT+l6HL._AC_UL320_ML3_.jpg", type="all",
+                cost=91745)
+    item.save()
+    item = Item(eq_name="Protoner 30Kg Weight Plates,5Ft Rod,3Ft Curl Rod,2D.Rods Home Gym Dumbell Set,Accessories",
+                image_url="https://m.media-amazon.com/images/I/51VYbb-vskL._AC_UL320_ML3_.jpg", type="all",
+                cost=1489)
+    item.save()
+    item = Item(eq_name="BodyFit 100KG Weight Plates 20 in 1 Bench Complete Home Gym Package",
+                image_url="https://m.media-amazon.com/images/I/71hPVZvN7UL._AC_UL320_ML3_.jpg", type="all",
+                cost=8650)
+    item.save()
+    item = Item(eq_name="HASHTAG FITNESS Leather Combo-Wb Home Gym Kit",
+                image_url="https://m.media-amazon.com/images/I/51bUep6gngL._AC_UL320_ML3_.jpg", type="all",
+                cost=1569)
+    item.save()
+    item = Item(eq_name="Generic Home Gym Combo, 20Kg",
+                image_url="https://m.media-amazon.com/images/I/81Qf2wR6pzL._AC_UL320_ML3_.jpg", type="all",
+                cost=950)
+    item.save()
+    item = Item(eq_name="Protoner 20WITH4 Rubber Home Gym Set",
+                image_url="https://m.media-amazon.com/images/I/81fYN-r8vNL._AC_UL320_ML3_.jpg", type="all",
+                cost=1499)
+    item.save()
+    item = Item(eq_name="Protoner 20kg Weight Lifting Package with Rods",
+                image_url="https://m.media-amazon.com/images/I/51npDflpm6L._AC_UL320_ML3_.jpg", type="all",
+                cost=875)
+    item.save()
+    item = Item(eq_name="BODY MAXX PVC Weight Lifting Package with 3 Rods, 20kg",
+                image_url="https://m.media-amazon.com/images/I/714BwIJiLkL._AC_UL320_ML3_.jpg", type="all",
+                cost=1439)
+    item.save()
+    item = Item(eq_name="Protoner 20KG PVC Home Gym Combo",
+                image_url="https://m.media-amazon.com/images/I/71WovxCeH2L._AC_UL320_ML3_.jpg", type="all",
+                cost=2549)
+    item.save()
+    item = Item(eq_name="Bodyfit 50Kg Weight Plates Home Gym Fitness Package 4 Rods,Gym Bag,Gym Accessories.",
+                image_url="https://m.media-amazon.com/images/I/512vWqvxLDL._AC_UL320_ML3_.jpg", type="all",
+                cost=1700)
+    item.save()
+    item = Item(
+        eq_name="Protoner 30 Kg PVC Weight Lifting Package with Rods",
+        image_url="https://m.media-amazon.com/images/I/51ieLdY69AL._AC_UL320_ML3_.jpg", type="all",
+        cost=5269)
+    item.save()
+    item = Item(eq_name="Protoner 30 kg with Flat Bench Home Gym Fitness Package",
+                image_url="https://m.media-amazon.com/images/I/71YTqi3l16L._AC_UL320_ML3_.jpg", type="all",
+                cost=968)
+    item.save()
+    item = Item(eq_name="Protoner 30KG Combo Home Gym Package.",
+                image_url="https://m.media-amazon.com/images/I/51ieLdY69AL._AC_UL320_ML3_.jpg", type="all",
+                cost=1468)
+    item.save()
+    item = Item(eq_name="Protoner PR50K4 Rubber Home Gym Package with 4 Rods, 50Kg",
+                image_url="https://m.media-amazon.com/images/I/71KHHELDMKL._AC_UL320_ML3_.jpg", type="all",
+                cost=1579)
+    item.save()
+    item = Item(eq_name="Body Maxx 30Kg Combo- 14Wb Home Gym & Fitness Kit",
+                image_url="https://m.media-amazon.com/images/I/51Y2eooyUkL._AC_UL320_ML3_.jpg", type="all",
+                cost=5530)
+    item.save()
+    item = Item(eq_name="Protoner 20kg Rubber Home Gym Set with Rods",
+                image_url="https://m.media-amazon.com/images/I/51G6m058zdL._AC_UL320_ML3_.jpg", type="all",
+                cost=5755)
+    item.save()
